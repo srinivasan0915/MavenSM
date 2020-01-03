@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="94300" started-at="2019-12-23T11:18:14Z" finished-at="2019-12-23T11:19:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="94300" started-at="2019-12-23T11:18:14Z" finished-at="2019-12-23T11:19:48Z">
+      <class name="com.sm.testcase.imoPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.sm.testcase.imoPageTest@1758f2a]" name="setup" is-config="true" duration-ms="28914" started-at="2019-12-23T11:18:14Z" finished-at="2019-12-23T11:18:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="imopagetitle()[pri:1, instance:com.sm.testcase.imoPageTest@1758f2a]" name="imopagetitle" duration-ms="101" started-at="2019-12-23T11:18:43Z" finished-at="2019-12-23T11:18:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imopagetitle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.sm.testcase.imoPageTest@1758f2a]" name="teardown" is-config="true" duration-ms="73" started-at="2019-12-23T11:18:43Z" finished-at="2019-12-23T11:18:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.sm.testcase.imoPageTest@1758f2a]" name="setup" is-config="true" duration-ms="20275" started-at="2019-12-23T11:18:44Z" finished-at="2019-12-23T11:19:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="imoPageTestvalue(java.lang.String, java.lang.String)[pri:2, instance:com.sm.testcase.imoPageTest@1758f2a]" name="imoPageTestvalue" duration-ms="9605" started-at="2019-12-23T11:19:04Z" data-provider="imo2020data" finished-at="2019-12-23T11:19:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CNSHA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SGSIN]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imoPageTestvalue -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.sm.testcase.imoPageTest@1758f2a]" name="teardown" is-config="true" duration-ms="2347" started-at="2019-12-23T11:19:14Z" finished-at="2019-12-23T11:19:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.sm.testcase.imoPageTest@1758f2a]" name="setup" is-config="true" duration-ms="20802" started-at="2019-12-23T11:19:16Z" finished-at="2019-12-23T11:19:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="imoPageTestvalue(java.lang.String, java.lang.String)[pri:2, instance:com.sm.testcase.imoPageTest@1758f2a]" name="imoPageTestvalue" duration-ms="11079" started-at="2019-12-23T11:19:37Z" data-provider="imo2020data" finished-at="2019-12-23T11:19:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[THBKK]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MYPGU]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imoPageTestvalue -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.sm.testcase.imoPageTest@1758f2a]" name="teardown" is-config="true" duration-ms="54" started-at="2019-12-23T11:19:48Z" finished-at="2019-12-23T11:19:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.sm.testcase.imoPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
